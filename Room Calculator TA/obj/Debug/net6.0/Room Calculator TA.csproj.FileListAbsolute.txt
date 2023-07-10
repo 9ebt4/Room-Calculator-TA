@@ -1,0 +1,30 @@
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\bin\Debug\net6.0\Room Calculator TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\bin\Debug\net6.0\Room Calculator TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\bin\Debug\net6.0\Room Calculator TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\bin\Debug\net6.0\Room Calculator TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\bin\Debug\net6.0\Room Calculator TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\refint\Room Calculator TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\repos\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\ref\Room Calculator TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\bin\Debug\net6.0\Room Calculator TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\bin\Debug\net6.0\Room Calculator TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\bin\Debug\net6.0\Room Calculator TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\bin\Debug\net6.0\Room Calculator TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\bin\Debug\net6.0\Room Calculator TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\refint\Room Calculator TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\Room Calculator TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Room Calculator TA\Room Calculator TA\obj\Debug\net6.0\ref\Room Calculator TA.dll
